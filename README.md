@@ -2,6 +2,7 @@
 1、山海 相关技术
 （1）剧情编辑器
 
+
 <img src="https://github.com/DarkYtq/Introduce/tree/master/Imgs/剧情编辑器.png" width="800" 
 alt="剧情编辑器"/>
 
@@ -26,10 +27,12 @@ alt="剧情编辑器"/>
 3、BombHappy 相关技术
 （1）C#客户端+C#服务器
 （2）QQ堂+类似喷射3染色机制
+
 ---
 
 4、BeatFire 相关技术
 （1）根据音乐文件的音乐频率生成关卡。
+
 ---
 
 5、其他个人爱好
@@ -39,6 +42,7 @@ alt="剧情编辑器"/>
 （4）PhotoShop 黑白形绘画
 （5）学过半年水墨画
 （6）Steam游戏+NS游戏+流行的手游
+
 ---
 
 6、其他作品集合
