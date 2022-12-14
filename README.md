@@ -1,6 +1,12 @@
 # 这个仓是个人近俩年作品集
 1、山海 相关技术
 （1）剧情编辑器
+
+<img src="https://github.com/DarkYtq/Introduce/tree/master/Imgs/剧情编辑器.png" width="1000" 
+alt="Step1"/>
+
+---
+
 （2）MVC代码导出+读表存档代码导出
 （3）战斗AI行为树
 （4）数值策划配置
