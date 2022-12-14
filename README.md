@@ -2,8 +2,8 @@
 1、山海 相关技术
 （1）剧情编辑器
 
-<img src="https://github.com/DarkYtq/Introduce/tree/master/Imgs/剧情编辑器.png" width="1000" 
-alt="Step1"/>
+<img src="https://github.com/DarkYtq/Introduce/tree/master/Imgs/剧情编辑器.png" width="800" 
+alt="剧情编辑器"/>
 
 ---
 
