@@ -2,25 +2,28 @@
 1、山海 相关技术
 （1）剧情编辑器
 
-
 <img src="https://github.com/DarkYtq/Introduce/tree/master/Imgs/剧情编辑器.png" width="800" 
 alt="剧情编辑器"/>
+
 如图，支持小说文本转换为可视化的节点编辑器，可以自由组合搭配节点走向和游戏表现。
 
 （2）MVC代码导出+读表存档代码导出
+
 <img src="https://github.com/DarkYtq/Introduce/tree/master/Imgs/ViewExport.png" width="800" 
 alt="ViewExport"/>
+
 如图，可以快速填充Component的Reference，一键生成View和Controller脚本
 
 <img src="https://github.com/DarkYtq/Introduce/tree/master/Imgs/ConfigExport.png" width="800" 
 alt="ConfigExport"/>
-如图，可以快速填充生成变量类型，一键生成读表、存档、Model脚本。
 
+如图，可以快速填充生成变量类型，一键生成读表、存档、Model脚本。
 
 （3）战斗AI行为树
 
 <img src="https://github.com/DarkYtq/Introduce/tree/master/Imgs/行为树.png" width="800" 
 alt="行为树"/>
+
 如果为消消乐战斗角色搭建行为树。
 
 （4）数值策划配置
@@ -30,10 +33,12 @@ alt="行为树"/>
 
 <img src="https://github.com/DarkYtq/Introduce/tree/master/Imgs/美术资源管理.png" width="800" 
 alt="美术资源管理"/>
+
 根据美术文件夹一键生成映射表，每个美术资源都有唯一的resId，方便配置和游戏逻辑处理。
 
 <img src="https://github.com/DarkYtq/Introduce/tree/master/Imgs/图集工具.png" width="800" 
 alt="图集工具"/>
+
 将大概率出现在同一个界面的图片进行图集打包，提供一键SpriteAtlas和批量修改Sprite属性功能。
 
 ---
@@ -43,6 +48,7 @@ alt="图集工具"/>
 
 <img src="https://github.com/DarkYtq/Introduce/tree/master/Imgs/城市生成器.png" width="800" 
 alt="城市生成器"/>
+
 根据GridFlow游戏里每个城市不一样的Seed，不一样的美术资源，生成独一无二的城市。
 
 （2）建造系统
@@ -55,6 +61,7 @@ alt="城市生成器"/>
 
 <img src="https://github.com/DarkYtq/Introduce/tree/master/Imgs/大地图角色.png" width="800" 
 alt="大地图角色"/>
+
 每个角色都有行为树管理， 国王根据势力分配不同城市的郡主，郡主分配武将进攻、采集资源、防守城市，普通武将做具体的行为。
 
 （4）剧情编辑
